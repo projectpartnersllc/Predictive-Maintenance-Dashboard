@@ -129,14 +129,7 @@ The sidebar contains the following options:
 - **Alert System Integration**:
   - Add email or SMS notifications for maintenance and anomaly alerts.
 
----
 
-## **Contributors**
-- [Your Name] - Project Lead & Developer
-
-Feel free to contribute to the project by submitting issues or pull requests!
-
----
 
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
